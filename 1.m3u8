@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 ,Unknown_2
+http://cfss.cc/api/ysp/cctv1.m3u8
+#EXTINF:-1 ,Unknown_3
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 ,Unknown_4
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+#EXTINF:-1 ,Unknown_5
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 ,Unknown_6
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+#EXTINF:-1 ,Unknown_7
+http://cfss.cc/api/ysp/cctv2.m3u8
+#EXTINF:-1 ,Unknown_8
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+#EXTINF:-1 ,Unknown_9
+http://cfss.cc/api/ysp/cctv3.m3u8
+#EXTINF:-1 ,Unknown_10
+http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 ,Unknown_11
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+#EXTINF:-1 ,Unknown_12
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+#EXTINF:-1 ,Unknown_13
+http://cfss.cc/api/ysp/cctv4.m3u8
+#EXTINF:-1 ,Unknown_14
+https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
+#EXTINF:-1 ,Unknown_15
+http://58.220.219.14:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 ,Unknown_16
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+#EXTINF:-1 ,Unknown_17
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 ,Unknown_18
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+#EXTINF:-1 ,Unknown_19
+http://angtv.cc/test/lngd.php?id=064
+#EXTINF:-1 ,Unknown_20
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+#EXTINF:-1 ,Unknown_21
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 ,Unknown_22
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+#EXTINF:-1 ,Unknown_23
+http://cfss.cc/api/ysp/cctv5p.m3u8
+#EXTINF:-1 ,Unknown_24
+http://cfss.cc/api/ysp/cctv6.m3u8
+#EXTINF:-1 ,Unknown_25
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+#EXTINF:-1 ,Unknown_26
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 ,Unknown_27
+http://angtv.cc/test/lngd.php?id=065
+#EXTINF:-1 ,Unknown_28
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
+#EXTINF:-1 ,Unknown_29
+http://cfss.cc/api/ysp/cctv7.m3u8
+#EXTINF:-1 ,Unknown_30
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
+#EXTINF:-1 ,Unknown_31
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,Unknown_32
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 ,Unknown_33
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+#EXTINF:-1 ,Unknown_34
+http://mqiptv.com:8014/ch/cctv8/mqlive.m3u8
+#EXTINF:-1 ,Unknown_35
+http://60.208.16.27:1505/gudou.php?id=364&id=1608
+#EXTINF:-1 ,Unknown_36
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8
+#EXTINF:-1 ,Unknown_37
+http://cfss.cc/api/ysp/cctv9.m3u8
+#EXTINF:-1 ,Unknown_38
+http://angtv.cc/test/lngd.php?id=128
+#EXTINF:-1 ,Unknown_39
+http://gmxw.7766.org:808/hls/27/index.m3u8
+#EXTINF:-1 ,Unknown_40
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+#EXTINF:-1 ,Unknown_41
+http://cfss.cc/api/ysp/cctv10.m3u8
+#EXTINF:-1 ,Unknown_42
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+#EXTINF:-1 ,Unknown_43
+http://124.222.238.146:1125/1.php?id=cctv10
+#EXTINF:-1 ,Unknown_44
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
+#EXTINF:-1 ,Unknown_45
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
+#EXTINF:-1 ,Unknown_46
+http://cfss.cc/api/ysp/cctv11.m3u8
+#EXTINF:-1 ,Unknown_47
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
+#EXTINF:-1 ,Unknown_48
+http://cfss.cc/api/ysp/cctv12.m3u8
+#EXTINF:-1 ,Unknown_49
+http://cfss.cc/ds/bst.php?id=Cf-13
+#EXTINF:-1 ,Unknown_50
+https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/e2d8885f42-0-0-6e1f55986652ba786606a116c5cc0775/index.m3u8
+#EXTINF:-1 ,Unknown_51
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8
+#EXTINF:-1 ,Unknown_52
+http://223.110.242.200:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ
+#EXTINF:-1 ,Unknown_53
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 ,Unknown_54
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 ,Unknown_55
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1 ,Unknown_56
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
+#EXTINF:-1 ,Unknown_57
+https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/0ef01acfdb-0-0-3c10e95bcde07ba14f0f93a8d831b684/index.m3u8
+#EXTINF:-1 ,Unknown_58
+http://mqiptv.com:8014/ch/cctv14/mqlive.m3u8
+#EXTINF:-1 ,Unknown_59
+http://angtv.cc/test/lngd.php?id=132
+#EXTINF:-1 ,Unknown_60
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
+#EXTINF:-1 ,Unknown_61
+http://cfss.cc/api/ysp/cctv15.m3u8
+#EXTINF:-1 ,Unknown_62
+https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/aefabb5259-0-0-65038e86b205c58b18c0c661afd99fae/index.m3u8
+#EXTINF:-1 ,Unknown_63
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
+#EXTINF:-1 ,Unknown_64
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
+#EXTINF:-1 ,Unknown_65
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+#EXTINF:-1 ,Unknown_66
+http://mqiptv.com:8014/ch/cctv16/mqlive.m3u8
+#EXTINF:-1 ,Unknown_67
+https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+#EXTINF:-1 ,Unknown_68
+http://php.17186.eu.org/ysp/cctv17.m3u8
+#EXTINF:-1 ,Unknown_69
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
+#EXTINF:-1 ,Unknown_70
+http://mqiptv.com:8014/ch/cctv17/mqlive.m3u8
+#EXTINF:-1 ,Unknown_71
+http://angtv.cc/test/lngd.php?id=204
